@@ -1,0 +1,34 @@
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_Business.dll
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_Business.pdb
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_DataAccess.dll
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.csprojResolveAssemblyReference.cache
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.dll
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.pdb
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_Business.dll
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_Business.pdb
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_DataAccess.dll
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.csproj.AssemblyReference.cache
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.csproj.CoreCompileInputs.cache
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghi.6B196333.Up2Date
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.dll
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.pdb
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_Business.dll
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_Business.pdb
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_DataAccess.dll
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.csproj.AssemblyReference.cache
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.csproj.CoreCompileInputs.cache
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghi.6B196333.Up2Date
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.dll
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.pdb
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_Business.dll
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_Business.pdb
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_DataAccess.dll
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.csproj.AssemblyReference.cache
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghi.6B196333.Up2Date
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.dll
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.pdb

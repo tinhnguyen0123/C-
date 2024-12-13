@@ -1,0 +1,23 @@
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_DataAccess\bin\Debug\Tracnghiem_DataAccess.dll
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_DataAccess\bin\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.dll
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_DataAccess\bin\Debug\Tracnghiem_DataAccess.dll
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_DataAccess\bin\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.csproj.AssemblyReference.cache
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.dll
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_DataAccess\bin\Debug\Tracnghiem_DataAccess.dll
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_DataAccess\bin\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.csproj.AssemblyReference.cache
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.dll
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_DataAccess\bin\Debug\Tracnghiem_DataAccess.dll
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_DataAccess\bin\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.dll
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.pdb

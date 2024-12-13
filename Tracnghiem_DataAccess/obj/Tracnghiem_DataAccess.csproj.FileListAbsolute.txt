@@ -1,0 +1,30 @@
+D:\Thuc tap\Source\Tracnghiem_Application\Tracnghiem_DataAccess\bin\Debug\Tracnghiem_DataAccess.dll
+D:\Thuc tap\Source\Tracnghiem_Application\Tracnghiem_DataAccess\bin\Debug\Tracnghiem_DataAccess.pdb
+D:\Thuc tap\Source\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Thuc tap\Source\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.dll
+D:\Thuc tap\Source\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\HP\Desktop\Source\Tracnghiem_Application\Tracnghiem_DataAccess\bin\Debug\Tracnghiem_DataAccess.dll
+C:\Users\HP\Desktop\Source\Tracnghiem_Application\Tracnghiem_DataAccess\bin\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\HP\Desktop\Source\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Source\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.dll
+C:\Users\HP\Desktop\Source\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\HP\Desktop\20-6\Tracnghiem_Application\Tracnghiem_DataAccess\bin\Debug\Tracnghiem_DataAccess.dll
+C:\Users\HP\Desktop\20-6\Tracnghiem_Application\Tracnghiem_DataAccess\bin\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\HP\Desktop\20-6\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\20-6\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.dll
+C:\Users\HP\Desktop\20-6\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\HP\Desktop\Code\Tracnghiem_Application\Tracnghiem_DataAccess\bin\Debug\Tracnghiem_DataAccess.dll
+C:\Users\HP\Desktop\Code\Tracnghiem_Application\Tracnghiem_DataAccess\bin\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\HP\Desktop\Code\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Code\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.dll
+C:\Users\HP\Desktop\Code\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.pdb
+D:\Thuc Tap Chinh Thuc\Code\Tracnghiem_Application\Tracnghiem_DataAccess\bin\Debug\Tracnghiem_DataAccess.dll
+D:\Thuc Tap Chinh Thuc\Code\Tracnghiem_Application\Tracnghiem_DataAccess\bin\Debug\Tracnghiem_DataAccess.pdb
+D:\Thuc Tap Chinh Thuc\Code\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Thuc Tap Chinh Thuc\Code\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.dll
+D:\Thuc Tap Chinh Thuc\Code\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.pdb
+D:\Setup\Code\Tracnghiem_Application\Tracnghiem_DataAccess\bin\Debug\Tracnghiem_DataAccess.dll
+D:\Setup\Code\Tracnghiem_Application\Tracnghiem_DataAccess\bin\Debug\Tracnghiem_DataAccess.pdb
+D:\Setup\Code\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\ResolveAssemblyReference.cache
+D:\Setup\Code\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.dll
+D:\Setup\Code\Tracnghiem_Application\Tracnghiem_DataAccess\obj\Debug\Tracnghiem_DataAccess.pdb

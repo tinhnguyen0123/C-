@@ -1,0 +1,142 @@
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.exe
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.pdb
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_Application.exe
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_Application.pdb
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_Business.dll
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_DataAccess.dll
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_Business.pdb
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.csprojResolveAssemblyReference.cache
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Dangky.resources
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_Dangnhap.resources
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_CapMK.resources
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_Dieuhanh.resources
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_DoiMK.resources
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_KetQua.resources
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_LienHe.resources
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_QLCH.resources
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_QLCHCS.resources
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_QLCHX.resources
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_QLMT.resources
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_QLNV.resources
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_THI.resources
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TKCH.resources
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TKNV.resources
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TKTS.resources
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TTDSKQ.resources
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TTDSNV.resources
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TTDSTS.resources
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TTNHCH.resources
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_XoaNV.resources
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Properties.Resources.resources
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.ThongtinTS.resources
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.csproj.GenerateResource.Cache
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_Application.exe.config
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Interop.Outlook.dll
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Renderers.dll
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\DevComponents.Instrumentation.Design.dll
+C:\Users\vien-pc\Documents\Code\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_Application.exe.config
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_Application.exe
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_Application.pdb
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_Business.dll
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_DataAccess.dll
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_Business.pdb
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.csproj.AssemblyReference.cache
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Dangky.resources
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_Dangnhap.resources
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_CapMK.resources
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_Dieuhanh.resources
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_DoiMK.resources
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_KetQua.resources
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_LienHe.resources
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_QLCH.resources
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_QLCHCS.resources
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_QLCHX.resources
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_QLMT.resources
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_QLNV.resources
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_THI.resources
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TKCH.resources
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TKNV.resources
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TKTS.resources
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TTDSKQ.resources
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TTDSNV.resources
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TTDSTS.resources
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TTNHCH.resources
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_XoaNV.resources
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Properties.Resources.resources
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.ThongtinTS.resources
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.csproj.GenerateResource.cache
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.csproj.CoreCompileInputs.cache
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghi.BDA26A93.Up2Date
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.exe
+C:\Users\phant\OneDrive\Desktop\Tracnghiem_Application\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.pdb
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_Application.exe
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_Business.dll
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_DataAccess.dll
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_Business.pdb
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.csproj.AssemblyReference.cache
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Dangky.resources
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_Dangnhap.resources
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_CapMK.resources
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_Dieuhanh.resources
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_DoiMK.resources
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_KetQua.resources
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_LienHe.resources
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_QLCH.resources
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_QLCHCS.resources
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_QLCHX.resources
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_QLMT.resources
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_QLNV.resources
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_THI.resources
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TKCH.resources
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TKNV.resources
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TKTS.resources
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TTDSKQ.resources
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TTDSNV.resources
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TTDSTS.resources
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TTNHCH.resources
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_XoaNV.resources
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Properties.Resources.resources
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.ThongtinTS.resources
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.csproj.GenerateResource.cache
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.csproj.CoreCompileInputs.cache
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.exe
+C:\Users\phant\OneDrive\Desktop\C#_Trắc Nghiệm Tiếng Anh\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.pdb
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_Application.exe.config
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_Application.exe
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_Application.pdb
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_Business.dll
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_DataAccess.dll
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_Business.pdb
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\bin\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.csproj.AssemblyReference.cache
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Dangky.resources
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_Dangnhap.resources
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_CapMK.resources
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_Dieuhanh.resources
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_DoiMK.resources
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_KetQua.resources
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_LienHe.resources
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_QLCH.resources
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_QLCHCS.resources
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_QLCHX.resources
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_QLMT.resources
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_QLNV.resources
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_THI.resources
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TTDSKQ.resources
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TTDSNV.resources
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TTDSTS.resources
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_TTNHCH.resources
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Form_XoaNV.resources
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.Properties.Resources.resources
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.ThongtinTS.resources
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.csproj.GenerateResource.cache
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghi.BDA26A93.Up2Date
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.exe
+C:\Users\Windows\Documents\C#\Tracnghiem_Application\Tracnghiem_Application\obj\Debug\Tracnghiem_Application.pdb

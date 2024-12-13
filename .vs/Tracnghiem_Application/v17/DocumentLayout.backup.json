@@ -1,0 +1,619 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{895B4BDF-4A8C-4646-A6E5-0B89C4F6A9B6}|Tracnghiem_DataAccess\\Tracnghiem_DataAccess.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_dataaccess\\thisinhda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895B4BDF-4A8C-4646-A6E5-0B89C4F6A9B6}|Tracnghiem_DataAccess\\Tracnghiem_DataAccess.csproj|solutionrelative:tracnghiem_dataaccess\\thisinhda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{385A010F-EACD-4599-B37B-33F5690C2690}|Tracnghiem_Business\\Tracnghiem_Business.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_business\\thisinhbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{385A010F-EACD-4599-B37B-33F5690C2690}|Tracnghiem_Business\\Tracnghiem_Business.csproj|solutionrelative:tracnghiem_business\\thisinhbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\thongtints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\thongtints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|c:\\users\\windows\\documents\\c#\\tracnghiem_application\\tracnghiem_application\\thongtints.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\thongtints.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\thongtints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\thongtints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\form_ttnhch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\form_ttnhch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\form_ttdsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\form_ttdsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\form_ttdsnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\form_ttdsnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\form_ttdskq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\form_ttdskq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\form_qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\form_qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\form_qlmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\form_qlmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\form_qlchx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\form_qlchx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\form_qlchcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\form_qlchcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\form_lienhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\form_lienhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\form_ketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\form_ketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\form_doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\form_doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\form_dieuhanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\form_dieuhanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\form_capmk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\form_capmk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|c:\\users\\windows\\documents\\c#\\tracnghiem_application\\tracnghiem_application\\form_thi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\form_thi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\form_qlch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\form_qlch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\form_xoanv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\form_xoanv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{895B4BDF-4A8C-4646-A6E5-0B89C4F6A9B6}|Tracnghiem_DataAccess\\Tracnghiem_DataAccess.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_dataaccess\\nhanvienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{895B4BDF-4A8C-4646-A6E5-0B89C4F6A9B6}|Tracnghiem_DataAccess\\Tracnghiem_DataAccess.csproj|solutionrelative:tracnghiem_dataaccess\\nhanvienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|c:\\users\\windows\\documents\\c#\\tracnghiem_application\\tracnghiem_application\\form_thi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\form_thi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\form_ttdsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\form_ttdsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phant\\AppData\\Local\\Temp\\.vsdbgsrc\\d0d9c404dd1bdf3823881070ed4caab7e1fdf37f9a9f11ab01b262efde861477\\SqlConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\form_qlch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\form_qlch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\form_qlmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\form_qlmt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\form_dieuhanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\form_dieuhanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\tracnghiem_application\\form_capmk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74418F4-E730-421F-B645-A3C25D4CBFCC}|Tracnghiem_Application\\Tracnghiem_Application.csproj|solutionrelative:tracnghiem_application\\form_capmk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThongtinTS.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\ThongtinTS.Designer.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\ThongtinTS.Designer.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\ThongtinTS.Designer.cs",
+              "RelativeToolTip": "Tracnghiem_Application\\ThongtinTS.Designer.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAowOoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:33:32.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form1.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Form1.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form1.cs [Design]",
+              "RelativeToolTip": "Tracnghiem_Application\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:50:07.935Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form1.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Form1.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form1.cs",
+              "RelativeToolTip": "Tracnghiem_Application\\Form1.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAYwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:56:25.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThongtinTS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\ThongtinTS.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\ThongtinTS.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\ThongtinTS.cs [Design]",
+              "RelativeToolTip": "Tracnghiem_Application\\ThongtinTS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:42:06.265Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThiSinhDA.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_DataAccess\\ThiSinhDA.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_DataAccess\\ThiSinhDA.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_DataAccess\\ThiSinhDA.cs",
+              "RelativeToolTip": "Tracnghiem_DataAccess\\ThiSinhDA.cs",
+              "ViewState": "AgIAAD0BAAAAAAAAAAAIwFIBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:28:20.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThiSinhBS.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Business\\ThiSinhBS.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Business\\ThiSinhBS.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Business\\ThiSinhBS.cs",
+              "RelativeToolTip": "Tracnghiem_Business\\ThiSinhBS.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAA7wKwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:27:16.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form_TTNHCH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_TTNHCH.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Form_TTNHCH.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_TTNHCH.cs [Design]",
+              "RelativeToolTip": "Tracnghiem_Application\\Form_TTNHCH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:50:14.535Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form_TTDSTS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_TTDSTS.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Form_TTDSTS.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_TTDSTS.cs [Design]",
+              "RelativeToolTip": "Tracnghiem_Application\\Form_TTDSTS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:50:16.825Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThongtinTS.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\ThongtinTS.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\ThongtinTS.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\ThongtinTS.cs",
+              "RelativeToolTip": "Tracnghiem_Application\\ThongtinTS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:19:22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form_TTDSNV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_TTDSNV.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Form_TTDSNV.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_TTDSNV.cs [Design]",
+              "RelativeToolTip": "Tracnghiem_Application\\Form_TTDSNV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:50:25.249Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form_TTDSKQ.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_TTDSKQ.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Form_TTDSKQ.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_TTDSKQ.cs [Design]",
+              "RelativeToolTip": "Tracnghiem_Application\\Form_TTDSKQ.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:50:32.349Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form_QLNV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_QLNV.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Form_QLNV.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_QLNV.cs [Design]",
+              "RelativeToolTip": "Tracnghiem_Application\\Form_QLNV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:55:41.11Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form_QLMT.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_QLMT.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Form_QLMT.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_QLMT.cs [Design]",
+              "RelativeToolTip": "Tracnghiem_Application\\Form_QLMT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:12:32.719Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form_QLCHX.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_QLCHX.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Form_QLCHX.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_QLCHX.cs [Design]",
+              "RelativeToolTip": "Tracnghiem_Application\\Form_QLCHX.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:12:18.486Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form_QLCHCS.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_QLCHCS.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Form_QLCHCS.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_QLCHCS.cs [Design]",
+              "RelativeToolTip": "Tracnghiem_Application\\Form_QLCHCS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:41:31.259Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form_LienHe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_LienHe.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Form_LienHe.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_LienHe.cs [Design]",
+              "RelativeToolTip": "Tracnghiem_Application\\Form_LienHe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:41:26.801Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form_KetQua.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_KetQua.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Form_KetQua.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_KetQua.cs [Design]",
+              "RelativeToolTip": "Tracnghiem_Application\\Form_KetQua.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:41:22.953Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form_DoiMK.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_DoiMK.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Form_DoiMK.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_DoiMK.cs [Design]",
+              "RelativeToolTip": "Tracnghiem_Application\\Form_DoiMK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:41:20.66Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form_Dieuhanh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_Dieuhanh.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Form_Dieuhanh.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_Dieuhanh.cs [Design]",
+              "RelativeToolTip": "Tracnghiem_Application\\Form_Dieuhanh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:41:04.328Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form_CapMK.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_CapMK.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Form_CapMK.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_CapMK.cs [Design]",
+              "RelativeToolTip": "Tracnghiem_Application\\Form_CapMK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:39:31.334Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form_THI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_THI.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Form_THI.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_THI.cs [Design]",
+              "RelativeToolTip": "Tracnghiem_Application\\Form_THI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:50:48.087Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form_QLCH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_QLCH.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Form_QLCH.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_QLCH.cs [Design]",
+              "RelativeToolTip": "Tracnghiem_Application\\Form_QLCH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:41:29.406Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Dangky.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Dangky.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Dangky.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Dangky.cs [Design]",
+              "RelativeToolTip": "Tracnghiem_Application\\Dangky.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:39:24.28Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form_XoaNV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_XoaNV.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Form_XoaNV.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_XoaNV.cs [Design]",
+              "RelativeToolTip": "Tracnghiem_Application\\Form_XoaNV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:50:12.011Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NhanvienDA.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_DataAccess\\NhanvienDA.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_DataAccess\\NhanvienDA.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_DataAccess\\NhanvienDA.cs",
+              "RelativeToolTip": "Tracnghiem_DataAccess\\NhanvienDA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:41:38.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form_THI.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_THI.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Form_THI.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_THI.cs",
+              "RelativeToolTip": "Tracnghiem_Application\\Form_THI.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAowKwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:03:49.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form_TTDSTS.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_TTDSTS.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Form_TTDSTS.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_TTDSTS.cs",
+              "RelativeToolTip": "Tracnghiem_Application\\Form_TTDSTS.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwDkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:36:52.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Form_QLCH.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_QLCH.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Form_QLCH.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_QLCH.cs",
+              "RelativeToolTip": "Tracnghiem_Application\\Form_QLCH.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAuwKoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:12:11.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\App.config",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\App.config",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\App.config",
+              "RelativeToolTip": "Tracnghiem_Application\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-04T16:34:33.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SqlConnection.cs",
+              "DocumentMoniker": "C:\\Users\\phant\\AppData\\Local\\Temp\\.vsdbgsrc\\d0d9c404dd1bdf3823881070ed4caab7e1fdf37f9a9f11ab01b262efde861477\\SqlConnection.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\phant\\AppData\\Local\\Temp\\.vsdbgsrc\\d0d9c404dd1bdf3823881070ed4caab7e1fdf37f9a9f11ab01b262efde861477\\SqlConnection.cs",
+              "ToolTip": "C:\\Users\\phant\\AppData\\Local\\Temp\\.vsdbgsrc\\d0d9c404dd1bdf3823881070ed4caab7e1fdf37f9a9f11ab01b262efde861477\\SqlConnection.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\phant\\AppData\\Local\\Temp\\.vsdbgsrc\\d0d9c404dd1bdf3823881070ed4caab7e1fdf37f9a9f11ab01b262efde861477\\SqlConnection.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:43:50.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Form_QLMT.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_QLMT.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Form_QLMT.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_QLMT.cs",
+              "RelativeToolTip": "Tracnghiem_Application\\Form_QLMT.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:12:43.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Form_Dieuhanh.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_Dieuhanh.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Form_Dieuhanh.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_Dieuhanh.cs",
+              "RelativeToolTip": "Tracnghiem_Application\\Form_Dieuhanh.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:10:32.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Dangky.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Dangky.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Dangky.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Dangky.cs",
+              "RelativeToolTip": "Tracnghiem_Application\\Dangky.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAewDAAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:57:31.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Program.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Program.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Program.cs",
+              "RelativeToolTip": "Tracnghiem_Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:42:03.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Form_CapMK.cs",
+              "DocumentMoniker": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_CapMK.cs",
+              "RelativeDocumentMoniker": "Tracnghiem_Application\\Form_CapMK.cs",
+              "ToolTip": "C:\\Users\\Windows\\Documents\\C#\\Tracnghiem_Application\\Tracnghiem_Application\\Form_CapMK.cs",
+              "RelativeToolTip": "Tracnghiem_Application\\Form_CapMK.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:39:39.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 98,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

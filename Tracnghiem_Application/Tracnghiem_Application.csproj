@@ -1,0 +1,468 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E74418F4-E730-421F-B645-A3C25D4CBFCC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Tracnghiem_Application</RootNamespace>
+    <AssemblyName>Tracnghiem_Application</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar.Design">
+      <HintPath>E:\sharecode\EmailVerifier\EmailVerifier\EmailVerifier.WinTester\bin\Debug\DevComponents.DotNetBar.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2">
+      <HintPath>E:\sharecode\EmailVerifier\EmailVerifier\EmailVerifier.WinTester\bin\Debug\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.Instrumentation">
+      <HintPath>E:\sharecode\EmailVerifier\EmailVerifier\EmailVerifier.WinTester\bin\Debug\DevComponents.Instrumentation.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.Instrumentation.Design">
+      <HintPath>E:\sharecode\EmailVerifier\EmailVerifier\EmailVerifier.WinTester\bin\Debug\DevComponents.Instrumentation.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Outlook">
+      <HintPath>..\..\..\CSHARP_STUDY\CSHARP_STUDY\bin\Debug\Interop.Outlook.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="IrisSkin2, Version=2006.3.22.45, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\IrisSkin2.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Renderers">
+      <HintPath>..\..\..\CSHARP_STUDY\CSHARP_STUDY\bin\Debug\Renderers.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dangky.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dangky.Designer.cs">
+      <DependentUpon>Dangky.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_CapMK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_CapMK.Designer.cs">
+      <DependentUpon>Form_CapMK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Dieuhanh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Dieuhanh.Designer.cs">
+      <DependentUpon>Form_Dieuhanh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_DoiMK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_DoiMK.Designer.cs">
+      <DependentUpon>Form_DoiMK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_KetQua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_KetQua.Designer.cs">
+      <DependentUpon>Form_KetQua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_LienHe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_LienHe.Designer.cs">
+      <DependentUpon>Form_LienHe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_QLCH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_QLCH.Designer.cs">
+      <DependentUpon>Form_QLCH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_QLCHCS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_QLCHCS.Designer.cs">
+      <DependentUpon>Form_QLCHCS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_QLCHX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_QLCHX.Designer.cs">
+      <DependentUpon>Form_QLCHX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_QLMT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_QLMT.Designer.cs">
+      <DependentUpon>Form_QLMT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_QLNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_QLNV.Designer.cs">
+      <DependentUpon>Form_QLNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_THI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_THI.Designer.cs">
+      <DependentUpon>Form_THI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_TTDSKQ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_TTDSKQ.Designer.cs">
+      <DependentUpon>Form_TTDSKQ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_TTDSNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_TTDSNV.Designer.cs">
+      <DependentUpon>Form_TTDSNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_TTDSTS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_TTDSTS.Designer.cs">
+      <DependentUpon>Form_TTDSTS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_TTNHCH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_TTNHCH.Designer.cs">
+      <DependentUpon>Form_TTNHCH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_XoaNV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_XoaNV.Designer.cs">
+      <DependentUpon>Form_XoaNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <EmbeddedResource Include="Dangky.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Dangky.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_CapMK.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_CapMK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Dieuhanh.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_Dieuhanh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_DoiMK.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_DoiMK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_KetQua.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_KetQua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_LienHe.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_LienHe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_QLCH.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_QLCH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_QLCHCS.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_QLCHCS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_QLCHX.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_QLCHX.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_QLMT.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_QLMT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_QLNV.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_QLNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_THI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_THI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_TTDSKQ.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_TTDSKQ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_TTDSNV.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_TTDSNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_TTDSTS.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_TTDSTS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_TTNHCH.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_TTNHCH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_XoaNV.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form_XoaNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThongtinTS.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ThongtinTS.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ThongtinTS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThongtinTS.Designer.cs">
+      <DependentUpon>ThongtinTS.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Tracnghiem_Business\Tracnghiem_Business.csproj">
+      <Project>{385A010F-EACD-4599-B37B-33F5690C2690}</Project>
+      <Name>Tracnghiem_Business</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol-Refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alarm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anouncement.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow-Down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow-Left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow-Right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow-Up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Config.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Config-Tools.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Connected.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cut.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Document.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Find.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Folder-Secure.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HourGlass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_vthumb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Network-Folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paste.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Redo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rename.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol-Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol-Construction.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol-Check.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol-Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol-Error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol-Exclamation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol-Help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol-Information.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol-Refresh1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol-Restricted.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Symbol-Stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Thumbs_down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Under-construction.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Undo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vista-Shield.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Web-page.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Window.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zoom-in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zoom-out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7169.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7171.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7166.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7167.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7090.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7224.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

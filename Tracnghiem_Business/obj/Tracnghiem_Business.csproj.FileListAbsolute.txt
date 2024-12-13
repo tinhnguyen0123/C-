@@ -1,0 +1,42 @@
+D:\Thuc tap\Source\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_Business.dll
+D:\Thuc tap\Source\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_Business.pdb
+D:\Thuc tap\Source\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\ResolveAssemblyReference.cache
+D:\Thuc tap\Source\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.dll
+D:\Thuc tap\Source\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.pdb
+D:\Thuc tap\Source\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_DataAccess.dll
+D:\Thuc tap\Source\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\HP\Desktop\Source\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_Business.dll
+C:\Users\HP\Desktop\Source\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_Business.pdb
+C:\Users\HP\Desktop\Source\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_DataAccess.dll
+C:\Users\HP\Desktop\Source\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\HP\Desktop\Source\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Source\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.dll
+C:\Users\HP\Desktop\Source\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.pdb
+C:\Users\HP\Desktop\20-6\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_Business.dll
+C:\Users\HP\Desktop\20-6\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_Business.pdb
+C:\Users\HP\Desktop\20-6\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_DataAccess.dll
+C:\Users\HP\Desktop\20-6\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\HP\Desktop\20-6\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\20-6\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.dll
+C:\Users\HP\Desktop\20-6\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.pdb
+C:\Users\HP\Desktop\Code\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_Business.dll
+C:\Users\HP\Desktop\Code\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_Business.pdb
+C:\Users\HP\Desktop\Code\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_DataAccess.dll
+C:\Users\HP\Desktop\Code\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_DataAccess.pdb
+C:\Users\HP\Desktop\Code\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Code\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.dll
+C:\Users\HP\Desktop\Code\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.pdb
+D:\Thuc Tap Chinh Thuc\Code\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_Business.dll
+D:\Thuc Tap Chinh Thuc\Code\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_Business.pdb
+D:\Thuc Tap Chinh Thuc\Code\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_DataAccess.dll
+D:\Thuc Tap Chinh Thuc\Code\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_DataAccess.pdb
+D:\Thuc Tap Chinh Thuc\Code\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\ResolveAssemblyReference.cache
+D:\Thuc Tap Chinh Thuc\Code\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.dll
+D:\Thuc Tap Chinh Thuc\Code\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.pdb
+D:\Setup\Code\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_Business.dll
+D:\Setup\Code\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_Business.pdb
+D:\Setup\Code\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_DataAccess.dll
+D:\Setup\Code\Tracnghiem_Application\Tracnghiem_Business\bin\Debug\Tracnghiem_DataAccess.pdb
+D:\Setup\Code\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\ResolveAssemblyReference.cache
+D:\Setup\Code\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.dll
+D:\Setup\Code\Tracnghiem_Application\Tracnghiem_Business\obj\Debug\Tracnghiem_Business.pdb
